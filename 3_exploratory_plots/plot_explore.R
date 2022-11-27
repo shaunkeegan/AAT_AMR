@@ -11,7 +11,7 @@ library(gghighlight)
 library(cowplot)
 library(dplyr)
 
-source("funcs/plot_functions.R")
+source("3_exploratory_plots/funcs/plot_functions.R")
 
 defaultW <- getOption("warn") 
 options(warn = -1) 
